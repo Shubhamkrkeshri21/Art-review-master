@@ -1,0 +1,1 @@
+The Art Review System is a dynamic web application designed for art enthusiasts and critics to explore, review, and discuss various artworks. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this system offers a seamless and engaging user experience, enabling users to immerse themselves in the world of art through a modern and interactive platform.
